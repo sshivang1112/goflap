@@ -23,7 +23,7 @@ Before running the game, make sure you have the following prerequisites installe
 
 1. Clone the repository:
 
-git clone https://github.com/gopal96685/goflap
+git clone https://github.com/sshivang1112/goflap
 
 
 2. Navigate to the project directory:
@@ -79,17 +79,10 @@ git push origin feature/your-feature
 
 5. Create a new pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- The Flappy Bird game concept was originally created by Dong Nguyen.
 
 ## Contact
 
-For any inquiries or suggestions, please contact [me](mailto:gopal96685@gmail.com).
+For any inquiries or suggestions, please contact [me](mailto:shivangp831.15@gmail.com).
 
 
 
